@@ -103,6 +103,12 @@ Finally, I use rootplot to visualize the data and test the plotting speed.
 	int test_counter = 0;
 	int N = 100;
 	while (test_counter < N) {
+	
+		//if needed, you can change the data here
+		//codes
+		//
+		//
+		
 		
 		m_rootplot->plt(&FFT_Data, &DATA_40M);
 		test_counter++;
