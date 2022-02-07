@@ -18,7 +18,7 @@ In last, for a purpose of testing the plotting speed of the root core, we run th
 
 3. rootplot.h & rootplot.cpp : It's a simple class to integrate the root core functions for 2D numerical plot.
 
-##Environmental setup
+## Environmental setup
 
 1. install VS2019 for Cpp coding.
 
