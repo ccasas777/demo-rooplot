@@ -5,7 +5,7 @@
 
 
 ### Goals
-Comparing to the matplotlib.h, the root lib. is another good choice if you want to numerical visualize the data in C++ program.
+Comparing to the matplotlib.h, the root lib. is another good choice if you want to numerically analysis or visualize the data in C++ program.
 Here is a simple demo that shows a waveform and a spectrum together. 
 In last, for a purpose of testing the plotting speed of the root core, we run the same data N times to calculate the time.
 
