@@ -16,7 +16,7 @@ In last, for a purpose of testing the plotting speed of the root core, we run th
 
 2. fftw3.h & libfftw3-3.dll & libfftw3-3.lib : It's a high efficiency DFT program. if you like to know details, please refer to https://www.fftw.org/ 
 
-3. rootplot.h & rootplot.cpp : It's a simple class to integrate the root core functions for 2D numerical plot.
+3. rootplot.h & rootplot.cpp : It's a simple class to integrate the root core functions for 2D numerical plot. website: https://root.cern/
 
 ## Environmental setup
 
