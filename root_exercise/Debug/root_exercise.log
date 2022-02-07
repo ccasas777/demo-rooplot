@@ -1,0 +1,17 @@
+﻿  root_exercise.cpp
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(18,1): warning C4005: 'M_PI': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28): message : see previous definition of 'M_PI'
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(29,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(68,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(97,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(98,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(71,9): warning C4101: 'value': unreferenced local variable
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(84,10): warning C4101: 'absVal': unreferenced local variable
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(137,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(139,21): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(149,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(150,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(151,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(151,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\source\repos\root_exercise\root_exercise\root_exercise.cpp(153,22): warning C4018: '<': signed/unsigned mismatch
+  root_exercise.vcxproj -> C:\Users\super\source\repos\root_exercise\Debug\root_exercise.exe
