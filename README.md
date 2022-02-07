@@ -115,7 +115,7 @@ Finally, I use rootplot to visualize the data and test the plotting speed.
 
 ```
 ## Result:　
-N=100, the cost time = ~2000 ms (matplotlib need around 4000-5000 ms)
+N=100, the cost time = ~2000 ms (matplotlib needs around 4000-5000 ms)
 ![image1]
 
 
