@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image1]: ./snapshot/result.jpg
+[image1]: ./snapshot/result.JPG
 
 # Rootplot-Demo-Project
 
@@ -74,6 +74,7 @@ To begining with, we first generate the data from .csv and initialize the root c
 
 ```
 
+Here is to prepare the DFT data to plot later by FFTW3 API
 
 ```cpp
 	//prepare DFT Data
